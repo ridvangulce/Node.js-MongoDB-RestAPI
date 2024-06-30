@@ -1,0 +1,15 @@
+# Node.js modules
+node_modules/
+
+# Log files
+logs/
+*.log
+npm-debug.log*
+
+# Environment variable files
+.env
+.env.*
+
+# Ignore build files
+dist/
+build/
